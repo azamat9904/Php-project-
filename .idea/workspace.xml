@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06f574c9-ebec-479b-bc7f-d9739a4d1932" name="Default Changelist" comment="" />
+    <list default="true" id="06f574c9-ebec-479b-bc7f-d9739a4d1932" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajax/order.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/order.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/order.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/admin/addProducts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/admin/addUsers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/admin/editProducts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/admin/orderList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/admin/products.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/admin.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/admin.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/sidebar.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/sidebar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/signup.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/signup.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/db.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/db.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/user.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/user.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharedViews/adminHeader.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/admin/adminHeader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharedViews/adminSidebar.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/admin/adminSidebar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharedViews/end.php" beforeDir="false" afterPath="$PROJECT_DIR$/sharedViews/end.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharedViews/head.php" beforeDir="false" afterPath="$PROJECT_DIR$/sharedViews/head.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +36,11 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1g0GbzU2dEaXULv0TPRWEhVaEol" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -20,15 +48,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/image" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../face" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Азамат\Desktop\OSPanel\domains\site\assets\images" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Азамат\Desktop\OSPanel\domains\site\assets\image" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Азамат\Desktop\OSPanel\domains\site\views\admin" />
+      <recent name="C:\Users\Азамат\Desktop\OSPanel\domains\site\views" />
+      <recent name="C:\Users\Азамат\Desktop\OSPanel\domains\site\assets\images" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -45,7 +76,7 @@
       <workItem from="1597329790739" duration="10110000" />
       <workItem from="1597340080195" duration="349000" />
       <workItem from="1597418911012" duration="7798000" />
-      <workItem from="1597489118008" duration="4158000" />
+      <workItem from="1597489118008" duration="10639000" />
     </task>
     <servers />
   </component>
@@ -53,10 +84,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1597330462358">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1597502882418">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1597330462358" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1597502882418" />
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1597489120167">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

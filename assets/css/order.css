@@ -1,0 +1,19 @@
+table,tr,td,th{
+    border:1px solid rgba(0,0,0,.1);
+    text-align: center;
+}
+tr,td,th{
+    padding:5px 0;
+}
+.table{
+    width: 100%;
+    border-collapse:collapse;
+}
+.table__row:hover{
+    background-color: #ebebeb;
+    cursor: pointer;
+}
+.empty{
+    text-align: center;
+    color:red;
+}

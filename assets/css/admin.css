@@ -1,4 +1,16 @@
+/*Admin file Styles*/
+body{
+    background-color: #eceff1;
+}
 .content{
-    padding-top: 100px;
-    padding-left: 50px;
+    padding-top: 85px;
+    box-sizing: border-box;
+}
+.content__wrapper{
+    padding:15px;
+    width: 96%;
+    min-height: 600px;
+    margin:auto;
+    background-color: #fff;
+    border-radius: 5px;
 }

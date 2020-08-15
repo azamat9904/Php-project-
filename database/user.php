@@ -1,4 +1,6 @@
 <?php
+//    Requests to the database to change data from users table
+
     require_once $_SERVER['DOCUMENT_ROOT'].'/database/db.php';
 
     function getUserByEmail($email){
